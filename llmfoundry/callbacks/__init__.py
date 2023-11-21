@@ -27,5 +27,5 @@ __all__ = [
     'ScheduledGarbageCollector',
     'EvalGauntlet',
     'ModelGauntlet',
-    'HuggingFaceCheckpointer',
+    # 'HuggingFaceCheckpointer',
 ]
